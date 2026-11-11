@@ -6,7 +6,7 @@ An interactive hand-tracking magic paint studio. Create glowing artwork using re
 
 ## Preview
 
-![Magic Paint Studio Preview](preview.png)
+![Magic Paint Studio Preview](magic%20paint.png)
 
 ## Features
 
