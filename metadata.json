@@ -1,0 +1,6 @@
+{
+  "name": "Magic Paint Studio",
+  "description": "Premium hand-tracking webcam digital painting studio with flowing neon light trails and gesture controls.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
