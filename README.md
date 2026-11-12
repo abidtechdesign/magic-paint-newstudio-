@@ -1,67 +1,20 @@
-# ✨ Magic Paint Studio
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-An interactive hand-tracking magic paint studio. Create glowing artwork using real-time hand gestures through your camera.
+# Run and deploy your AI Studio app
 
-**[🚀 Live Demo](https://magic-paint-newstudio.vercel.app/)**
+This contains everything you need to run your app locally.
 
-## Preview
+View your app in AI Studio: https://ai.studio/apps/6207e658-d8ff-4679-bfe4-f0d041042d07
 
-![Magic Paint Studio Preview](magic%20paint.png)
+## Run Locally
 
-## Features
+**Prerequisites:**  Node.js
 
-- Real-time hand tracking through your camera
-- Draw and create artwork using hand gestures
-- Glowing painting effects
-- Interactive painting canvas
-- Colour selection and brush size controls
 
-## Tech Stack
-
-- TypeScript
-- Vite
-- MediaPipe / Hand Tracking
-- HTML, CSS and JavaScript
-- Vercel (Deployment)
-
-## Getting Started
-
-Follow these steps to run the project locally.
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/abidtechdesign/magic-paint-newstudio-.git
-```
-
-### 2. Open the project folder
-
-```bash
-cd magic-paint-newstudio-
-```
-
-### 3. Install dependencies
-
-```bash
-npm install
-```
-
-### 4. Start the development server
-
-```bash
-npm run dev
-```
-
-Open the local URL shown in your terminal to view the application.
-
-## Live Deployment
-The application is deployed on Vercel.
-**Live URL:**(https://magic-paint-newstudio.vercel.app/)
-
-## Author
-
-**Abid Raza**  
-Senior Product Designer
-
-- GitHub: https://github.com/abidtechdesign
-- Portfolio: https://abidtechdesign.com
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
